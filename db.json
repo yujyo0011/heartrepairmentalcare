@@ -8,32 +8,4 @@
         "colE": "dataE1"
     }
         ],
-    "3": {
-        "colA": "dataA2",
-        "colB": "dataB2",
-        "colC": "dataC2",
-        "colD": "dataD2",
-        "colE": "dataE2"
-    },
-    "4": {
-        "colA": "dataA3",
-        "colB": "dataB3",
-        "colC": "dataC3",
-        "colD": "dataD3",
-        "colE": "dataE3"
-    },
-    "5": {
-        "colA": "dataA4",
-        "colB": "dataB4",
-        "colC": "dataC4",
-        "colD": "dataD4",
-        "colE": "dataE4"
-    },
-    "6": {
-        "colA": "dataA5",
-        "colB": "dataB5",
-        "colC": "dataC5",
-        "colD": "dataD5",
-        "colE": "dataE5"
-    }
 }
