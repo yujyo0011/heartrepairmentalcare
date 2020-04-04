@@ -1,11 +1,13 @@
 {
-    "2": {
+    "2": [
+        {
         "colA": "dataA1",
         "colB": "dataB1",
         "colC": "dataC1",
         "colD": "dataD1",
         "colE": "dataE1"
-    },
+    }
+        ],
     "3": {
         "colA": "dataA2",
         "colB": "dataB2",
