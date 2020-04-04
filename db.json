@@ -1,18 +1,26 @@
 
+{
+  "posts": [
     {
-        "id":"1",
-        "first_name":"Steven",
-        "last_name":"Thompson",
-        "email":"sthompson0@spotify.com",
-        "gender":"Male",
-        "ip_address":"129.167.217.82"
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
     },
     {
-        "id":"2",
-        "first_name":"Doris",
-        "last_name":"Daniels",
-        "email":"ddaniels1@usgs.gov",
-        "gender":"Female",
-        "ip_address":"34.152.122.66"
+      "title": "こんにちは！",
+      "author": "ytabuchi",
+      "id": 2
     }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
 
