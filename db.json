@@ -1,11 +1,7 @@
-{
-    "2": [
-        {
-        "colA": "dataA1",
-        "colB": "dataB1",
-        "colC": "dataC1",
-        "colD": "dataD1",
-        "colE": "dataE1"
-    }
-        ],
+{"corona":
+    [
+        {"id":1,"country":"China","confirm ":81394,"deaths":3295},
+        {"id":2,"country":"Hong Kong","confirm ":518,"deaths":4},
+        {"id":3,"country":"Macau","confirm ":35,"deaths":0}
+    ]
 }
