@@ -1,15 +1,18 @@
-
-{
-  "posts": [
+[
     {
-      "id": 1,
-      "title": "88r",
-      "author": "11"
+        "id":"1",
+        "first_name":"Steven",
+        "last_name":"Thompson",
+        "email":"sthompson0@spotify.com",
+        "gender":"Male",
+        "ip_address":"129.167.217.82"
     },
     {
-      "id": 2,
-      "title": "jso88r",
-      "author": "t88e"
-    },
-    
-    
+        "id":"2",
+        "first_name":"Doris",
+        "last_name":"Daniels",
+        "email":"ddaniels1@usgs.gov",
+        "gender":"Female",
+        "ip_address":"34.152.122.66"
+    }
+]
