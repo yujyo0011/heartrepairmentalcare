@@ -1,11 +1,25 @@
+
 {
- "books":
-[
-{
-  "isbn":"978-4-7980-4535-1",
-  "title":"はじめてのASP",
-  "author":"WINGSプロ",
- "published":"秀和システム",
- "price":"3000",
- "publishDate":"2020/12/11"
-},
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "こんにちは！",
+      "author": "ytabuchi",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
