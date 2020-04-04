@@ -1,15 +1,11 @@
-
 {
   "posts": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    },
-    {
-      "title": "こんにちは！",
-      "author": "ytabuchi",
-      "id": 2
+      "title": "hello"
     }
   ],
-
+  "profile": {
+    "name": "typicode"
+  }
+}
