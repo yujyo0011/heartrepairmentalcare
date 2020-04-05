@@ -1,6 +1,5 @@
 {"corona":
-    [{"country ":81394,"deaths":3295},
-{"country ":518,"deaths":4},
-{"country ":35,"deaths":0},
-{"country ":1499,"deaths":49}]
+    [{"id":0,"country":"China","confirm":81394,"deaths":3295},
+{"id":1,"country":"Hong Kong","confirm":518,"deaths":4},
+{"id":2,"country":"Macau","confirm":35,"deaths":0}]
 }
