@@ -1,5 +1,5 @@
 {"corona":
-   [{"confirm ":81.708,"deaths":3.331},
+ [{"confirm ":81.708,"deaths":3.331},
 {"confirm ":890,"deaths":4},
 {"confirm ":44,"deaths":0},
 {"confirm ":3.654,"deaths":73},
@@ -182,22 +182,6 @@
 {"confirm ":35,"deaths":0},
 {"confirm ":21,"deaths":1},
 {"confirm ":14,"deaths":0},
-{"confirm ":11,"deaths":0},
-{"confirm ":5,"deaths":0},
-{"confirm ":18,"deaths":0},
-{"confirm ":45,"deaths":4},
-{"confirm ":10,"deaths":0},
-{"confirm ":18,"deaths":1},
-{"confirm ":3,"deaths":0},
-{"confirm ":3,"deaths":0},
-{"confirm ":6,"deaths":0},
-{"confirm ":3,"deaths":0},
-{"confirm ":4,"deaths":1},
-{"confirm ":4,"deaths":0},
-{"confirm ":2,"deaths":0},
-{"confirm ":1,"deaths":0},
-{"confirm ":4,"deaths":0},
-{"confirm ":1,"deaths":0},
-{"confirm ":712,"deaths":11},
-{"confirm ":1,246,192,"deaths":68.634}]
+{"confirm ":11,"deaths":0}
+]
 }
